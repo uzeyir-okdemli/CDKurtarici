@@ -1,0 +1,47 @@
+# .NET Build & Output Directories
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / Rider / VS Code / Antigravity user files
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# NuGet Packages & Lock Files
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Recovered Media & Temporary Files (Do not commit user data or test media)
+*.dat
+*.DAT
+*.mpg
+*.MPG
+*.mp4
+*.MP4
+*.iso
+*.ISO
+*.bin
+*.cue
+*.log
+*.tmp
+*.zip
+ffmpeg*.exe
+GitHub_Yukle.bat
+GitHub_Yukle.ps1
